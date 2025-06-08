@@ -67,9 +67,3 @@ Use Cases:
 * Clinical decision support systems for gynecologists and endocrinologists
 * Integration into telemedicine diagnostic platforms
 * Educational tool for medical ML modeling
-
-Contributors:
-
-* Feature engineering and preprocessing: \[Your Name]
-* Model architecture and training: \[Your Name]
-* Evaluation and cross-validation: \[Your Name]
